@@ -1,0 +1,6 @@
+{
+    "python-envs.pythonProjects": [],
+    "python.analysis.extraPaths": [
+        "./class_2Assignment"
+    ]
+}
